@@ -1,96 +1,33 @@
-<h1>
-    <a href="https://www.dio.me/">
-     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Versionamento de Código com Git e GitHub</span>
-</h1>
+# 🧑‍💻 Sobre Mim
 
-Repositório desenvolvido para fins educativos, com a disponibilização de materiais de apoio para o curso **Versionamento de Código com Git e GitHub** da [Digital Innovation One](https://www.dio.me/).
+Olá! Sou um Analista de Dados com experiência em diversas ferramentas e tecnologias. Meu objetivo é transformar dados brutos em insights valiosos que ajudem na tomada de decisões estratégicas. Abaixo estão algumas das principais ferramentas e linguagens que utilizo em meu trabalho diário:
 
-[![Link do Curso](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/f3cbaa66-efbd-4c25-842e-2069c188c066) 
-[![Link do Curso](https://img.shields.io/badge/Acesse%20o%20Curso%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/f3cbaa66-efbd-4c25-842e-2069c188c066) 
+## 🛠️ Ferramentas e Tecnologias
 
-## Objetivo
-Introduzir ao versionamento de código com Git e GitHub.
+- **Power BI:** Criação de dashboards interativos e relatórios personalizados para análise de dados.
+- **Python:** Desenvolvimento de scripts para manipulação e análise de dados, além de automação de processos.
+- **Google Analytics 4 (GA4):** Análise de comportamento de usuários em websites e aplicativos para otimização de campanhas e estratégias de marketing digital.
+- **SQL:** Consulta e manipulação de bancos de dados relacionais para extração e análise de informações cruciais.
 
-## Ferramentas
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-<br>
+## 📂 Projetos Destacados
 
-## Percurso
-<table>
-  <thead>
-    <tr align="left">
-      <th>Nº</th>
-      <th>Etapas</th>
-      <th>Materiais de Apoio</th>
-    </tr>
-  </thead>
-  <tbody align="left">
-    <tr>
-      <td>01</td>
-      <td>Visão Geral do Curso e Ferramentas</td>
-      <td align="center">
-        <a href="https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/01-visao-geral-do-curso-e-ferramentas.md">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>02</td>
-      <td>Instalação, Configuração e Autenticação</td>
-      <td align="center">
-        <a href="https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/02-instalacao-configuracao-e-autenticacao.md">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>03</td>
-      <td>Primeiros Passos com Git e GitHub</td>
-      <td align="center">
-        <a href="https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/03-primeiros-passos-com-git-e-github.md">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
-        </a>
-      </td>    
-    </tr>
-    <tr>
-      <td>04</td>
-      <td>Dicas e Materiais de Apoio</td>
-      <td align="center">
-        <a href="https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/04-dicas-e-materiais-de-apoio.md">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
-        </a>
-      </td>    
-    </tr>
-  </tbody>
-  <tfoot></tfoot>
-</table>
+### 📊 [Projeto de Análise de Vendas](link_do_projeto)
+Descrição: Utilização de Power BI para criar um dashboard que analisa as vendas mensais, identificando tendências e oportunidades de crescimento.
 
-## Instrutora
-<table>
-  <tr>
-    <td>
-      <img width="80px" align="center" src="https://avatars.githubusercontent.com/elidianaandrade"/>
-    </td>
-    <td align="left">
-      <a href="https://github.com/elidianaandrade">
-        <span><b>Elidiana Andrade</b></span>
-      </a>
-      <br>
-      <span>Desenvolvedora Front-end</span>
-    </td>
-  </tr>
-</table>
+### 🐍 [Script de Limpeza de Dados](link_do_projeto)
+Descrição: Script em Python para limpeza e transformação de dados de um grande dataset, preparando-o para análises mais aprofundadas.
 
-## Referências
-- [GIT. Documentation](https://git-scm.com/doc)
-- [GITHUB. Documentation](https://docs.github.com/)
-- [GITHUB BLOG. February 28th DDoS Incident Report](https://github.blog/2018-03-01-ddos-incident-report/)
-- [GITHUB BLOG. February 28th DDoS Incident Report](https://github.blog/2018-03-01-ddos-incident-report/)
-- [GITHUB BLOG. Raising the bar for software security: GitHub 2FA begins March 13](https://github.blog/2023-03-09-raising-the-bar-for-software-security-github-2fa-begins-march-13/)
-- [GITHUB BLOG. Token authentication requirements for Git operations](https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/)
-- [MICROSOFT. Microsoft to acquire GitHub for $7.5 billion](https:/news.microsoft.com/2018/06/04/microsoft-to-acquire-github-for-7-5-billion/)
+### 🌐 [Relatório de Tráfego Web](link_do_projeto)
+Descrição: Análise do tráfego de um site utilizando GA4, gerando insights sobre o comportamento dos usuários e a eficácia das campanhas de marketing.
 
-##
-<div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
+### 🗃️ [Consulta SQL Complexa](link_do_projeto)
+Descrição: Desenvolvimento de uma consulta SQL complexa para extrair dados relevantes de um banco de dados de clientes, ajudando na segmentação e personalização de ofertas.
+
+## 📬 Contato
+
+Para mais informações ou colaborações, sinta-se à vontade para entrar em contato:
+
+- **Email:** [sanumbofrancisco@gmail.com](mailto:sanumbofrancisco@gmail.com)
+- **LinkedIn:** [Seu Perfil no LinkedIn](https://www.linkedin.com/in/franciscoalfredo/)
+
+Obrigado pela visita!
