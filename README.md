@@ -20,7 +20,7 @@ Descrição: Script em Python para limpeza e transformação de dados de um gran
 ### 🌐 [Relatório de Tráfego Web](link_do_projeto)
 Descrição: Análise do tráfego de um site utilizando GA4, gerando insights sobre o comportamento dos usuários e a eficácia das campanhas de marketing.
 
-### 🗃️ [Consulta SQL Complexa](link_do_projeto)
+### 🗃️ [Consulta SQL](link_do_projeto)
 Descrição: Desenvolvimento de uma consulta SQL complexa para extrair dados relevantes de um banco de dados de clientes, ajudando na segmentação e personalização de ofertas.
 
 ## 📬 Contato
@@ -28,6 +28,6 @@ Descrição: Desenvolvimento de uma consulta SQL complexa para extrair dados rel
 Para mais informações ou colaborações, sinta-se à vontade para entrar em contato:
 
 - **Email:** [sanumbofrancisco@gmail.com](mailto:sanumbofrancisco@gmail.com)
-- **LinkedIn:** [Seu Perfil no LinkedIn](https://www.linkedin.com/in/franciscoalfredo/)
+- **LinkedIn:** [https://www.linkedin.com/in/franciscoalfredo/](https://www.linkedin.com/in/franciscoalfredo/)
 
 Obrigado pela visita!
