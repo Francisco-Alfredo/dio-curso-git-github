@@ -4,11 +4,12 @@ Olá! Sou um Analista de Dados com experiência em diversas ferramentas e tecnol
 
 ## 🛠️ Ferramentas e Tecnologias
 
-- **Power BI:** Criação de dashboards interativos e relatórios personalizados para análise de dados.
-- **Python:** Desenvolvimento de scripts para manipulação e análise de dados, além de automação de processos.
-- **Google Analytics 4 (GA4):** Análise de comportamento de usuários em websites e aplicativos para otimização de campanhas e estratégias de marketing digital.
-- **SQL:** Consulta e manipulação de bancos de dados relacionais para extração e análise de informações cruciais.
-
+- **Power BI**: Criação de dashboards interativos e relatórios personalizados para visualização de dados.
+- **Python**: Desenvolvimento de scripts para análise de dados, machine learning e automação de tarefas repetitivas.
+  - Bibliotecas principais: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- **Google Analytics 4 (GA4)**: Implementação e análise de métricas de desempenho de sites e aplicativos.
+- **Google Tag Manager (GTM)**: Configuração e gerenciamento de tags para rastreamento preciso de eventos e conversões.
+- **SQL**: Consulta e manipulação de dados em bancos de dados relacionais para gerar insights detalhados.
 ## 📂 Projetos Destacados
 
 ### 📊 [Projeto de Análise de Vendas](link_do_projeto)
