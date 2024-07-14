@@ -18,8 +18,8 @@ Descrição: Utilização de Power BI para criar um dashboard que analisa as ven
 ### 🐍 [Script de Limpeza de Dados](link_do_projeto)
 Descrição: Script em Python para limpeza e transformação de dados de um grande dataset, preparando-o para análises mais aprofundadas.
 
-### 🌐 [Relatório de Tráfego Web](link_do_projeto)
-Descrição: Análise do tráfego de um site utilizando GA4, gerando insights sobre o comportamento dos usuários e a eficácia das campanhas de marketing.
+### 🌐 [Monitoramento Web](link_do_projeto)
+Descrição: Implementação de GA4 e GTM para rastreamento de comportamento de usuários em uma plataformas web.
 
 ### 🗃️ [Consulta SQL](link_do_projeto)
 Descrição: Desenvolvimento de uma consulta SQL complexa para extrair dados relevantes de um banco de dados de clientes, ajudando na segmentação e personalização de ofertas.
