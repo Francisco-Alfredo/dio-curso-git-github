@@ -1,4 +1,4 @@
-# 🧑‍💻 Sobre Mim
+# 🧑‍💻 Francisco Alfredo
 
 Olá! Sou um Analista de Dados com experiência em diversas ferramentas e tecnologias. Meu objetivo é transformar dados brutos em insights valiosos que ajudem na tomada de decisões estratégicas. Abaixo estão algumas das principais ferramentas e linguagens que utilizo em meu trabalho diário:
 
